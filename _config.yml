@@ -156,3 +156,8 @@ katex:
   allpost: true
   copy_tex: false
 
+music:
+  enable: false
+  tpye: 1
+  id: 22707008
+  autoPlay: false
