@@ -87,6 +87,14 @@ search: true
 # RSS
 rss: /atom.xml
 
+darkmode: true
+
+clickLove: false
+
+layout:
+  article_width: 80rem
+  sidebar_width: 8rem
+
 # Comment：1、Valine (recommended)；2、Gitalk
 
 # 1、Valine [A fast, simple & powerful comment system](https://github.com/xCss/Valine)
@@ -141,3 +149,10 @@ since: 2019
 
 # pageFooter (Set true can let more people know this theme, Thanks!)
 pageFooter: true
+
+#katex
+katex:
+  enable: false # true
+  allpost: true
+  copy_tex: false
+
