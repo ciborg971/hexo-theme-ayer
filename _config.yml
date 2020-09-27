@@ -11,7 +11,7 @@ menu:
 # https://github.com/mattboldt/typed.js
 subtitle:
   enable: true
-  text: Research and Destroy
+  text: Research and Development
   text2: With Software
   text3: And Electronic \!  #Supports up to three lines of text
   startDelay: 0
